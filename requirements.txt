@@ -1,0 +1,29 @@
+# Core dependencies
+streamlit>=1.28.0
+openai>=1.10.0
+python-dotenv>=1.0.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Email
+# (uses built-in smtplib, imaplib, email)
+
+# Utilities
+# (uses built-in: json, csv, pathlib, datetime, uuid, threading, time, ssl)
+
+# Development
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+ruff>=0.1.0
+mypy>=1.5.0

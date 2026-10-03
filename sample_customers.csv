@@ -1,0 +1,11 @@
+customer_id,name,email,phone,company,location,customer_type,lead_source,signup_date,last_contact_date,last_purchase_date,total_purchase_value,order_count,payment_status,outstanding_amount,support_status,customer_status,priority,notes
+CUST001,John Doe,john@example.com,+1-555-0100,Acme Corp,New York,company,website,2024-01-15,2024-12-01,2024-11-15,5000.00,10,current,0.00,none,active,10,VIP customer
+CUST002,Jane Smith,jane@example.com,+1-555-0200,Globex Inc,San Francisco,company,referral,2024-03-20,2024-11-28,2024-10-01,15000.00,25,current,0.00,none,active,20,High value
+CUST003,Bob Wilson,bob@example.com,+1-555-0300,,Chicago,individual,social_media,2024-06-10,2024-10-15,2024-10-15,0.00,0,overdue,500.00,open,inactive,5,Needs follow-up
+CUST004,Alice Brown,alice@example.com,+1-555-0400,TechCorp,Austin,company,website,2023-11-01,2024-11-20,2024-11-10,50000.00,50,current,0.00,none,active,50,Enterprise customer
+CUST005,Charlie Davis,charlie@example.com,+1-555-0500,,Denver,individual,referral,2024-02-15,2024-01-10,2024-01-10,100.00,1,overdue,250.00,open,inactive,10,Small business
+CUST006,Diana Evans,diana@example.com,+1-555-0600,StartupXYZ,Seattle,company,social_media,2024-08-01,2024-11-15,2024-11-10,25000.00,100,current,0.00,none,active,100,High-value SaaS
+CUST007,Frank Miller,frank@example.com,+1-555-0700,,Boston,individual,social_media,2024-05-20,2024-06-01,2024-05-20,500.00,2,current,0.00,resolved,churned,0,Churned
+CUST008,Grace Lee,grace@example.com,+1-555-0800,InnovateLabs,San Jose,company,referral,2023-01-15,2024-10-01,2024-09-15,75000.00,200,current,0.00,none,active,200,Whale customer
+CUST009,Henry Ford,henry@example.com,+1-555-0900,,Detroit,individual,social_media,2024-07-01,2024-11-01,2024-10-15,2000.00,5,current,0.00,none,active,15,Regular buyer
+CUST010,Iris Chen,iris@example.com,+1-555-1000,DataFlow Inc,Los Angeles,company,website,2024-04-01,2024-11-25,2024-11-20,500000.00,500,current,0.00,none,active,500,Enterprise whale

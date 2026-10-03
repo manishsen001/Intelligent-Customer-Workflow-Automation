@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+htmlcov/
+.coverageapp.py.corrupted_backup
+app.py.corrupted_backup
